@@ -1,0 +1,31 @@
+.head {
+    font-family: cursive;
+    font-size: 32px;
+    text-transform: capitalize;
+    text-decoration: line-through brown;
+}
+
+/* Font styel step 1 */
+
+.para {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18pt;
+    color: brown;
+    font-weight: bolder;
+    font-weight: normal;
+    font-style: italic;
+
+
+    /* line-height: 120px; */
+    word-spacing: 20px;
+}
+
+/* Font styel step 2 */
+
+/* .para2 {
+    font-family: cursive;
+    font-style: oblique;
+    font-weight: bolder;
+    font-size: 18pt;
+    color: cadetblue;
+} */

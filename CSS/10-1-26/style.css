@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* .sp{
+    line-height: 50px;
+    font-weight: bold;
+    font-size: 22px;
+    word-spacing: 30px;
+    letter-spacing: 20px;
+    text-align: center;
+
+}
+
+.today{
+    line-height: 20px;
+    color: slategrey;
+    text-align: center;
+}
+
+.para{
+     line-height: 50px;
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 20px;
+    vertical-align: middle;
+    text-indent:120px;
+
+}
+ */
+
+
+/* SOHDO CLASSES */
+
+/* .para1::first-letter {
+    background-color: gray;
+    color: white;
+    text-transform: uppercase;
+    font-size: 50px;
+    color: red;
+    text-shadow: 10px 10px 5px rgb(240, 137, 137);
+}
+
+
+.para2::first-line {
+    background-color: grey;
+    color: white;
+    text-transform: uppercase;
+    color: red;
+    text-shadow: 10px 10px 5px rgb(74, 131, 126);
+
+} */
+
+/* ID SELECTOR */
+
+/* .para3 {
+    font-size: 30px;
+    color: darkblue;
+    background-color: pink;
+}
+
+.para3:hover {
+    color: brown;
+    background-color: lightyellow;
+    font-size: 20px;
+} */
+
+/* button {
+    background-color: black;
+    color: white;
+    border: 1px solid ;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    font-family: cursive;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 1s;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    transform: scale(-1.1s);
+    
+} */
+
+
+input {
+    width: 200px;
+    height: 30px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 5px;
+    transition: 0.3s;
+}
+input:focus {
+    background-color: blue;
+    border: 2px solid orange;
+    color: white;
+    /* outline: none; */
+}

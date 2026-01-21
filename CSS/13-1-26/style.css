@@ -1,0 +1,77 @@
+/* body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+ 
+ .container{
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 200px;
+    padding: 12px 5px 30px 5px;
+}
+.container2{
+    background-color: darkblue;
+    padding: 12px;
+    color: white;
+    width: 300px;
+    height: 300px;
+    overflow: scroll;
+}  */
+
+
+
+
+/* .br{
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    background-color: darkblue;
+    color: white;
+}
+
+.br:hover{
+    background-color: cadetblue;
+
+} */
+
+body {
+    /* margin: 0;
+    padding: 0; */
+}
+
+/* .paraha{
+    border: 1px solid gray;
+    border-width: 5px 5/px 10px 10px;
+    border-top: 5px solid black;
+    border-bottom: 5px solid purple;
+    height: 50px;
+    border-top-left-radius: 10px;
+    border-style: outset;
+    border-top-color: pink;
+    border: 5px dashed pink;
+    height: 50px;
+    margin: 0;
+    padding: 5px 5px 5px 2px;
+    width: 400px;
+    padding-left: 10px;
+
+} */
+
+/* input {
+    border: 1px solid lightgray;
+    height: 40px;
+    width: 399px;
+    font-size: 18px;
+    font-family: cursive;
+    padding-left: 10px;
+    border-radius: 25px;
+    margin-bottom: 50px;
+    display: block;
+} */
+ /* .head{ */
+    /* text-align: center; */
+    /* margin: 0 auto; */
+ /* } */

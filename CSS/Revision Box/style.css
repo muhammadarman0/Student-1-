@@ -10,6 +10,10 @@ body {
 
 .container {
     height: 91vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .parent-one>h1 {
@@ -19,7 +23,7 @@ body {
     text-transform: uppercase;
     font-size: 2.3em;
     margin: 0;
-    margin-top: 25px;
+    /* margin-top: 25px; */
 }
 
 .input-cantainer {
@@ -96,7 +100,8 @@ body {
     transform: rotate(1,2);
 }
 
-.btn-container>button:hover{
+.btn-container>button:active{
     transition: all 2s;
     background-color: red;
+    color: white;
 }
